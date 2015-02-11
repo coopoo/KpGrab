@@ -1,12 +1,11 @@
 <?php
 /**
- * Zend Framework (http://framework.zend.com/)
+ * Kittencup
  *
- * @link      http://github.com/zendframework/zf2 for the canonical source repository
- * @copyright Copyright (c) 2005-2015 Zend Technologies USA Inc. (http://www.zend.com)
- * @license   http://framework.zend.com/license/new-bsd New BSD License
+ * @date 2015 15/1/30 上午11:44
+ * @copyright Copyright (c) 2014-2015 Kittencup. (http://www.kittencup.com)
+ * @license   http://kittencup.com
  */
-
 namespace KpGrab\Exception;
 
 /**
